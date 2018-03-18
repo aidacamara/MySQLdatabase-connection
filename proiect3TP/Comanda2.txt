@@ -1,0 +1,3 @@
+Comanda 2
+Clientul 3
+Total plata 10.0
